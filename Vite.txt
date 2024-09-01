@@ -1,0 +1,16 @@
+npm create vite@latest
+./
+select language
+
+
+npm install @reduxjs/toolkit
+global state managiing toolkit
+and need 
+npm i react-redux
+
+install tailwind css
+
+npm i -D tailwindcss postcss autoprefixer
+
+initializing tailwind
+npx tailwindcss init -p
